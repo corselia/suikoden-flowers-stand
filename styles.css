@@ -1,0 +1,24 @@
+body {
+  background-color: #e0f2f1;
+}
+
+/* line 1, /home/deploy_gss_2018_development/deploy/suikoden-election-2018/releases/20180623132023/app/assets/stylesheets/styles.scss */
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* line 6, /home/deploy_gss_2018_development/deploy/suikoden-election-2018/releases/20180623132023/app/assets/stylesheets/styles.scss */
+.twitter-card {
+  height: 300px;
+}
+
+/* line 10, /home/deploy_gss_2018_development/deploy/suikoden-election-2018/releases/20180623132023/app/assets/stylesheets/styles.scss */
+body {
+  font-family: "Noto Sans Japanese";
+}
+
+/* line 14, /home/deploy_gss_2018_development/deploy/suikoden-election-2018/releases/20180623132023/app/assets/stylesheets/styles.scss */
+.pre-tag-with-font {
+  white-space: pre-line;
+}
